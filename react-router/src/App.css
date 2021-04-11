@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+.pagenf{
+    background-image:url('pnf.png') ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 100%;
+    height: 100vh;
+}
